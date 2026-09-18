@@ -1,2 +1,2 @@
-# Computer-architecture--lab
+# Computer-architecture-lab
 Lab Task
